@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: DesktopLauncher
+Implementation-Title: ZT Mobile
+Implementation-Version: 1.1.7
+
